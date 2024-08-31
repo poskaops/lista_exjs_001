@@ -38,19 +38,19 @@ Eu evitei fazer comentários no código, visto que meu tempo está corrido, mas 
 
 15. **10 Números da Sequência de Fibonacci**  
 
-## Instruções para Executar od Exercícios Localmente
+## Instruções para Executar os Exercícios Localmente
 
-1. *Clonar o Repositório*
+1. **Clonar o Repositório**
    ```bash
    git clone https://github.com/poskaops/lista_exjs_001.git
    ```
 
- 2. *Navegue até o Diretório do Repositório*
+ 2. **Navegue até o Diretório do Repositório**
     ```bash
     cd lista_exjs_001
     ```
 
- 3. *Instale as Dependências*
+ 3. **Instale as Dependências**
     ```bash
     npm install
     ``` 
@@ -61,9 +61,10 @@ Eu evitei fazer comentários no código, visto que meu tempo está corrido, mas 
 
 Se estiver sido executado com sucesso, irá surgir arquivos que irão conter informações acerca das versões. É essencial que seja executado com sucesso, já que você como usuário deverá interagir com o sistema através do Terminal (Prompt).
 
- 4. *Execute os Exercícios*
+ 4. **Execute os Exercícios**
 
  Os exercícios estão implementados em vários arquivos que podem ser listados de 1 a 15. Para executar um exercício em específico, use o comando node na seguinte estrutura "node + arquivo. Exemplo:
-        ```bash
-        node ex01.js
-        ```
+ 
+   ```bash
+   node ex01.js
+   ```
