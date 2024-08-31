@@ -42,12 +42,12 @@ Eu evitei fazer comentários no código, visto que meu tempo está corrido, mas 
 
 1. *Clonar o Repositório*
    ```bash
-   git clone https://editardps
+   git clone https://github.com/poskaops/lista_exjs_001.git
    ```
 
  2. *Navegue até o Diretório do Repositório*
     ```bash
-    cd lista_ex_js001
+    cd lista_exjs_001
     ```
 
  3. *Instale as Dependências*
