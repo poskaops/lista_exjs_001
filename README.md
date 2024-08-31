@@ -1,6 +1,6 @@
 # Lista de Exercícios de JavaScript do Módulo 1
 
-*Nome:* João Emanuel de Souza
+**Nome:** João Emanuel de Souza
 
 Este repositório contém uma lista de exercícios em JavaScript focados em Lógica de Programação. Se houver algum dúvida referente a esse repositório, você pode fazer um comentário sobre ou entra em contato pelo e-mail: joaemanuel2019@gmail. :)
 
