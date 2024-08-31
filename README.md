@@ -63,7 +63,7 @@ Se estiver sido executado com sucesso, irá surgir arquivos que irão conter inf
 
  4. **Execute os Exercícios**
 
- Os exercícios estão implementados em vários arquivos que podem ser listados de 1 a 15. Para executar um exercício em específico, use o comando node na seguinte estrutura "node + arquivo. Exemplo:
+ Os exercícios estão implementados em vários arquivos que podem ser listados de 1 a 15. Para executar um exercício em específico, use o comando node na seguinte estrutura "node + arquivo" em um terminal. Exemplo:
  
    ```bash
    node ex01.js
