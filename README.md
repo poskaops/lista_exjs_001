@@ -54,7 +54,7 @@ Eu evitei fazer comentários no código, visto que meu tempo está corrido, mas 
     ```bash
     npm install
     ``` 
-    Ou, caso queira especificar a biblioteca:
+    Ou, caso queira especificar a biblioteca (acabou rolando um erro similar comigo):
     ```bash
     npm install prompt-sync
     ``` 
